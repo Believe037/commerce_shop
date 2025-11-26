@@ -5,6 +5,7 @@ import './header.css';
 const HomePage = () => {
   return (
     <>
+    <title>eCommerce Shop</title>
       <div className="header">
       <div className="left-section">
         <a href="index.html" className="header-link">
